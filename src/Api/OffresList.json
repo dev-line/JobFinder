@@ -1,0 +1,739 @@
+{
+  "Levels": [
+    "Master",
+    "Licence",
+    "Bac"
+  ],
+  "Offers": [
+    {
+      "Level": "Bac",
+      "Emplois": [
+        {
+          "Postes": "Représentant des vents",
+          "Entreprises": [
+            {
+              "Name": "GIPLAIT Laiterie Aures",
+              "Salary": 35000
+            },
+            {
+              "Name": "Kia Motors",
+              "Salary": 40000
+            },
+            {
+              "Name": "Toyota",
+              "Salary": 30000
+            },
+            {
+              "Name": "Renault",
+              "Salary": 28000
+            },
+            {
+              "Name": "Usine IRIS",
+              "Salary": 30000
+            },
+            {
+              "Name": "Condor",
+              "Salary": 29000
+            }
+          ]
+        },
+        {
+          "Postes": "Technicien en électricité",
+          "Entreprises": [
+            {
+              "Name": "Algerie télécome",
+              "Salary": 52000
+            },
+            {
+              "Name": "Banque Badr",
+              "Salary": 50000
+            },
+            {
+              "Name": "Hotel salim",
+              "Salary": 46000
+            },
+            {
+              "Name": "Clinique Ihssaniyet",
+              "Salary": 48000
+            }
+          ]
+        },
+        {
+          "Postes": "Technologie en génie du son",
+          "Entreprises": [
+            {
+              "Name": "Maison de la presse",
+              "Salary": 45000
+            },
+            {
+              "Name": "Théatre",
+              "Salary": 42000
+            }
+          ]
+        },
+        {
+          "Postes": "Photograph",
+          "Entreprises": [
+            {
+              "Name": "Théatre",
+              "Salary": 40000
+            },
+            {
+              "Name": "Centre Beauty Joelle",
+              "Salary": 42000
+            }
+          ]
+        },
+        {
+          "Postes": "Agent de vent d'assurence",
+          "Entreprises": [
+            {
+              "Name": "Kia Motors",
+              "Salary": 44000
+            },
+            {
+              "Name": "Toyota",
+              "Salary": 41000
+            },
+            {
+              "Name": "Renault",
+              "Salary": 44000
+            },
+            {
+              "Name": "Usine ENIE",
+              "Salary": 40000
+            }
+          ]
+        },
+        {
+          "Postes": "Massouthéra peute",
+          "Entreprises": [
+            {
+              "Name": "Centre Beauty Joelle",
+              "Salary": 34000
+            }
+          ]
+        },
+        {
+          "Postes": "Agent de sécurité",
+          "Entreprises": [
+            {
+              "Name": "GIPLAIT Laiterie Aures",
+              "Salary": 40000
+            },
+            {
+              "Name": "Hotel salim",
+              "Salary": 40000
+            },
+            {
+              "Name": "Banque Badr",
+              "Salary": 43000
+            },
+            {
+              "Name": "C.H.U",
+              "Salary": 38000
+            }
+          
+          ]
+        }
+      ]
+    },
+    {
+      "Level": "Licence",
+      "Emplois": [
+        {
+          "Speciality": "Automatique",
+          "Postes": "Programmeur des cartes éléctroniques",
+          "Entreprises": [
+            {
+              "Name": "Condor",
+              "Salary": 36000
+            },
+            {
+              "Name": "Usine IRIS",
+              "Salary": 38000
+            },
+            {
+              "Name": "Toyota",
+              "Salary": 36000
+            },
+            {
+              "Name": "Renault",
+              "Salary": 40000
+            }
+          ]
+        },
+        {
+          "Speciality": "Informatique",
+          "Postes": "Programmeur",
+          "Entreprises": [
+            {
+              "Name": "Algerie télécome",
+              "Salary": 52000
+            },
+            {
+              "Name": "Banque Badr",
+              "Salary": 50000
+            },
+            {
+              "Name": "Condor",
+              "Salary": 48000
+            }
+          ]
+        },
+        {
+          "Speciality": "Spécialiste de l’anesthésie et de la réanimation",
+          "Postes": "Spécialiste de l’anesthésie et de la réanimation",
+          "Entreprises": [
+            {
+              "Name": "C.H.U",
+              "Salary": 51000
+            },
+            {
+              "Name": "Clinique Zohor",
+              "Salary": 36000
+            }
+          ]
+        },
+        {
+          "Speciality": "Infermiére en santé public",
+          "Postes": "Infermiére en santé public",
+          "Entreprises": [
+            {
+              "Name": "Clinique Zohor",
+              "Salary": 48000
+            },
+            {
+              "Name": "C.H.U",
+              "Salary": 43000
+            },
+            {
+              "Name": "Clinique Ihssaniyet",
+              "Salary": 45000
+            }
+          ]
+        },
+        {
+          "Speciality": "Géotechnique et géologie de l'ingénieur",
+          "Postes": "Traveau de construction",
+          "Entreprises": [
+            {
+              "Name": "Algérienne des eaux",
+              "Salary": 40000
+            },
+            {
+              "Name": "Sonelgaz",
+              "Salary": 43000
+            }
+          ]
+        },
+        {
+          "Speciality": "Hydrogéologie",
+          "Postes": "Hydrogéologie",
+          "Entreprises": [
+            {
+              "Name": "Algérienne des eaux",
+              "Salary": 43000
+            }
+          ]
+        },
+        {
+          "Speciality": "Comptabilité",
+          "Postes": "Comptable Financier",
+          "Entreprises": [
+            {
+              "Name": "GIPLAIT Laiterie Aures",
+              "Salary": 48000
+            },
+            {
+              "Name": "Toyota",
+              "Salary": 47000
+            },
+            {
+              "Name": "Banque Badr",
+              "Salary": 46500
+            },
+            {
+              "Name": "Direction de l'education",
+              "Salary": 46000
+            }
+          ]
+        },
+        {
+          "Speciality": "Èconomie",
+          "Postes": "Analyste de financier",
+          "Entreprises": [
+            {
+              "Name": "Renault",
+              "Salary": 56000
+            },
+            {
+              "Name": "Hotel salim",
+              "Salary": 52000
+            },
+            {
+              "Name": "Toyota",
+              "Salary": 53000
+            },
+            {
+              "Name": "Condor",
+              "Salary": 54000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Level": "Master",
+      "Emplois": [
+        {
+          "Speciality": "Automatique & Informatique Industrielle",
+          "Postes": "Automatique & Informatique Industrielle",
+          "Entreprises": [
+            {
+              "Name": "Usine IRIS",
+              "Salary": 52000
+            }
+          ]
+        },
+        {
+          "Speciality": "Systéme Télécommunication",
+          "Postes": "Systéme Télécommunication",
+          "Entreprises": [
+            {
+              "Name": "Algerie télécome",
+              "Salary": 50000
+            },
+            {
+              "Name": "C.H.U",
+              "Salary": 48000
+            },
+            {
+              "Name": "Maternité Merieme Bouatoura",
+              "Salary": 48000
+            },
+            {
+              "Name": "Direction de l'education",
+              "Salary": 50000
+            }
+
+          ]
+        },
+        {
+          "Speciality": "Génie Mécanique et Productique",
+          "Postes": "Fabrication mécanique et productique",
+          "Entreprises": [
+            {
+              "Name": "Usine ENIE",
+              "Salary": 48000
+            },
+            {
+              "Name": "Condor",
+              "Salary": 46000
+            },
+            {
+              "Name": "Renault",
+              "Salary": 48000
+            },
+            {
+              "Name": "Usine IRIS",
+              "Salary": 48000
+            }
+          ]
+        },
+        {
+          "Speciality": "Géotechnique",
+          "Postes": "Officier dans laboratoire des analyses des sols et sous sols",
+          "Entreprises": [
+            {
+              "Name": "Algérienne des eaux",
+              "Salary": 46000
+            }
+          ]
+        },
+        {
+          "Speciality": "Hydrogéologie",
+          "Postes": "Hydrogéologie",
+          "Entreprises": [
+            {
+              "Name": "Algérienne des eaux",
+              "Salary": 48000
+            }
+          ]
+        },
+        {
+          "Speciality": "Informatique",
+          "Postes": "Management et marketing international",
+          "Entreprises": [
+            {
+              "Name": "Banque Badr",
+              "Salary": 50000
+            }
+          ]
+        },
+        {
+          "Speciality": "Sage femme",
+          "Postes": "Sage femme",
+          "Entreprises": [
+            {
+              "Name": "Maternité Merieme Bouatoura",
+              "Salary": 38000
+            },
+            {
+              "Name": "Clinique Mohammed Sadek",
+              "Salary": 38000
+            }
+          ]
+        },
+        {
+          "Speciality": "Informatique",
+          "Postes": "Réseau",
+          "Entreprises": [
+            {
+              "Name": "Algerie télécome",
+              "Salary": 52000
+            },
+            {
+              "Name": "C.H.U",
+              "Salary": 50000
+            },
+            {
+              "Name": "Maternité Merieme Bouatoura",
+              "Salary": 50000
+            }
+          ]
+        },
+        {
+          "Speciality": "Informatique",
+          "Postes": "Intelligence Artificielle et Multimédia",
+          "Entreprises": [
+            {
+              "Name": "Sonelgaz",
+              "Salary": 50000
+            },
+            {
+              "Name": "Usine IRIS",
+              "Salary": 48000
+            }
+          ]
+        },
+        {
+          "Speciality": "Relation public",
+          "Postes": "Directeur des relation public",
+          "Entreprises": [
+            {
+              "Name": "Direction de l'education",
+              "Salary": 48000
+            }
+          ]
+        },
+        {
+          "Speciality": "Traduction",
+          "Postes": "Traducteur",
+          "Entreprises": [
+            {
+              "Name": "Agence touristique",
+              "Salary": 50000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Specialities": [
+    {
+      "Level": "Bac",
+      "Name": "",
+      "Tree": [
+        "Représentant des vents",
+        "Technicien en électricité",
+        "Technologie en génie du son",
+        "Photograph",
+        "Agent de vent d'assurence",
+        "Massouthéra peute",
+        "Agent de sécurité"
+      ]
+    },
+    {
+      "Level": "Licence",
+      "Name": "Automatique",
+      "Tree": [
+        "Programmeur des cartes éléctroniques",
+        "Mécanique appliquée",
+        "Electronique de puissance et Commande des Machines",
+        "Calculateurs et Microprocesseurs",
+        "Systèmes Intelligents de Commande et Robotique"
+      ]
+    },
+    {
+      "Level": "Licence",
+      "Name": "Informatique",
+      "Tree": [
+        "Programmeur",
+        "Réseau",
+        "Agent de saisie"
+      ]
+    },
+    {
+      "Level": "Licence",
+      "Name": "Spécialiste de l’anesthésie et de la réanimation",
+      "Tree": [
+        "Spécialiste de l’anesthésie et de la réanimation"
+      ]
+    },
+    {
+      "Level": "Licence",
+      "Name": "Infermiére en santé public",
+      "Tree": [
+        "Infermiére en santé public"
+      ]
+    },
+    {
+      "Level": "Licence",
+      "Name": "Comptabilité",
+      "Tree": [
+        "Comptable Financier",
+        "Gestion de Stock"
+      ]
+    },
+    {
+      "Level": "Licence",
+      "Name": "Hydrogéologie",
+      "Tree": [
+        "Hydrogéologie"
+      ]
+    },
+    {
+      "Level": "Licence",
+      "Name": "Géotechnique et géologie de l'ingénieur",
+      "Tree": [
+        "Traveau de construction"
+      ]
+    },
+    {
+      "Level": "Master",
+      "Name": "Géotechnique",
+      "Tree": [
+        "Officier dans laboratoire des analyses des sols et sous sols"
+      ]
+    },
+
+    {
+      "Level": "Master",
+      "Name": "Hydrogéologie",
+      "Tree": [
+        "Hydrogéologie"
+      ]
+    },
+    {
+      "Level": "Master",
+      "Name": "Systéme Télécommunication",
+      "Tree": [
+        "Systéme Télécommunication"
+      ]
+    },
+    {
+      "Level": "Master",
+      "Name": "Automatique & Informatique Industrielle",
+      "Tree": [
+        "Automatique & Informatique Industrielle"
+      ]
+    },
+    {
+      "Level": "Master",
+      "Name": "Génie Mécanique et Productique",
+      "Tree": [
+        "Fabrication mécanique et productique"
+      ]
+    },
+    {
+      "Level": "Master",
+      "Name": "Informatique",
+      "Tree": [
+        "Programmeur",
+        "Management et marketing international",
+        "Réseau",
+        "Intelligence Artificielle et Multimédia"
+      ]
+    },
+    {
+      "Level": "Master",
+      "Name": "Sage femme",
+      "Tree": [
+        "Sage femme"
+      ]
+    },
+    {
+      "Level": "Master",
+      "Name": "Relation public",
+      "Tree": [
+        "Directeur des relation public"
+      ]
+    },
+    {
+      "Level": "Master",
+      "Name": "Traduction",
+      "Tree": [
+        "Traducteur"
+      ]
+    }
+  ],
+  "Entreprises": [
+    {
+      "Name": "GIPLAIT Laiterie Aures",
+      "Address": "Zone Industrielle KHECHIDA",
+      "Number": "023 77 12 41",
+      "Email": "Directiongenerale@giplait.dz"
+      
+    },
+    {
+      "Name": "Kia Motors",
+      "Address": "Route de Tazoult en face ITEF et station Naftal",
+      "Number": "07 80 08 91 32",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Toyota",
+      "Address": "Chelghoum Laïd",
+      "Number": "07 72 91 00 01",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Renault",
+      "Address": "05 Avenue de la République, Batna 05000",
+      "Number": "033 85 16 31",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Algerie télécome",
+      "Address": "Rue el fidaiine a cote du bureau de poste, 1er nov, Batna 05000",
+      "Number": "033 30 14 78",
+      "Email": "contact@algerietelecom.dz"
+      
+    },
+    {
+      "Name": "Banque Badr",
+      "Address": "PLACE DE LA LIBERTE FACE SNTV BATNA، Rue Hadj Abdelmadjid Abbdessamed, Batna 05000",
+      "Number": "033 85 61 54",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Hotel salim",
+      "Address": "Route de Biskra Cité EL Moudjahidine 05000، 05000",
+      "Number": "033 30 72 58",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Clinique Ihssaniyet",
+      "Address": "Cite Kechida 02 Batna",
+      "Number": "033 22 42 14",
+      "Email": "Aures.lait@gmail.com"
+      
+    },
+    {
+      "Name": "Maison de la presse",
+      "Address": "Batna",
+      "Number": "Inconnu",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Théatre",
+      "Address": "Rue Benabes Med Salah, Batna",
+      "Number": "033 80 28 71",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Centre Beauty Joelle",
+      "Address": "Ecole safh el djabel, En face, Batna",
+      "Number": "05 61 02 92 91",
+      "Email": "Inconnu"
+      
+    },
+
+    {
+      "Name": "Condor",
+      "Address": "Batna",
+      "Number": "Inconnu",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "C.H.U",
+      "Address": "Route de Tazoult، Batna 05000",
+      "Number": "033 30 84 01",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Clinique Zohor",
+      "Address": "Villa 31,quartier hyppodrome cité kemouni, Batna",
+      "Number": "06 64 32 83 82",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Usine IRIS",
+      "Address": "Siège social : Zone industrielle 2 ème extension lot N° 92 Sétif",
+      "Number": "0982 410 410",
+      "Email": "contact@iris.dz"
+      
+    },
+    {
+      "Name": "Usine ENIE",
+      "Address": "Blida",
+      "Number": "025 404 891",
+      "Email": "enie@enie.dz"
+      
+    },
+    {
+      "Name": "Maternité Merieme Bouatoura",
+      "Address": "Rue 19 Juin 1965",
+      "Number": "033 25 78 78",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Sonelgaz",
+      "Address": "Batna",
+      "Number": "Inconnu",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Direction de l'education",
+      "Address": "Rte de Biskra, Batna",
+      "Number": "033 80 12 45",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Algérienne des eaux",
+      "Address": "Batna",
+      "Number": "Inconnu",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Agence touristique",
+      "Address": "Masjid arkam, cite 800 logement rue h numéro 22 en face",
+      "Number": "033 28 80 80",
+      "Email": "Inconnu"
+      
+    },
+    {
+      "Name": "Clinique Mohammed Sadek",
+      "Address": "Masjid El ansar, Rue tazoult",
+      "Number": "06 67 60 86 60",
+      "Email": "Inconnu"
+      
+    }
+    
+  ]
+}
