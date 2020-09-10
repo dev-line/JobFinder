@@ -1,7 +1,7 @@
 # JobFinder
 Install NodJs and android studio
 ##
-install expo - run "npm i -g expo/cli"
+install expo - run "npm i -g expo-cli"
 ##
 open project directory and run "npm i"
 ##
